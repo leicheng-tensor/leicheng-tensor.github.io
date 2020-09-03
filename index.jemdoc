@@ -1,16 +1,17 @@
 ==Lei Cheng
 
-~~~
-{}{img_left}{cl.png}{alt text}{138.75}{153}{}
-Research Associate \n
-[http://www.sribd.cn/index.php/en/ Shenzhen Research Institute of Big Data (SRIBD)]\n
-Office: RB 307 A,  [https://www.cuhk.edu.cn/en The Chinese University of Hong Kong, Shenzhen] \n 
-Longgang District, Shenzhen, China \n
-E-mail: leicheng@sribd.cn / leicheng@cuhk.edu.cn
-~~~
+
+# {}{img_left}{cl.png}{alt text}{138.75}{153}{}
+- Research Associate \n
+- [http://www.sribd.cn/index.php/en/ Shenzhen Research Institute of Big Data (SRIBD)]\n
+- Office: RB 307 A,  [https://www.cuhk.edu.cn/en The Chinese University of Hong Kong, Shenzhen] \n 
+- Longgang District, Shenzhen, China \n
+- E-mail: leicheng@sribd.cn / leicheng@cuhk.edu.cn
+
 
 == NEWs
-# - Oct., 2020 | I will visit [http://lsec.cc.ac.cn/~yafliu/ Prof. Ya-Feng Liu] in Academy of Mathematics and Systems Science, Chinese Academy of Sciences from Oct. 9 to Oct. 25, 2020. 
+
+#- Oct, 2020 | I will visit [http://lsec.cc.ac.cn/~yafliu/ Prof. Ya-Feng Liu] in Academy of Mathematics and Systems Science, Chinese Academy of Sciences from Oct. 9 to Oct. 25, 2020. 
 
 - Jul., 2020 | Invited by IEEE ICC 2021 WC Symposium Co-Chairs, I will serve on the technical program committee (TPC) for IEEE ICC 2021.
 
@@ -19,6 +20,7 @@ E-mail: leicheng@sribd.cn / leicheng@cuhk.edu.cn
 
 
 == About me
+
 I received my B.Eng degree from Zhejiang University in 2013, and the PhD degree from The University of Hong Kong in 2018. From 2017 to 2018, I was with Alibaba group as an Algorithm Engineer, making contributions to the data-driven resource allocation for [https://www.youtube.com/watch?v=47iEV2Ve2S0 Alibaba's largest smart warehouse]. Since Nov. 2018, I joined Shenzhen Research Institute of Big Data as a Research Associate, directed by [https://scholar.google.com/citations?user=dW3gcXoAAAAJ&hl=en Prof. Zhi-Quan (Tom) Luo] and [https://sse.cuhk.edu.cn/en/faculty/cuishuguang Prof. Shuguang Cui].
 
 My research interests include 
@@ -27,12 +29,12 @@ My research interests include
 - Data-driven Intelligent Communication System Design
 
 
-== Projects
-- "Multidimensional Signal Processing and Big Data Analytics: A Probabilsitic Tensor Approach," Guangdong Basic and Applied Basic Research Foundation, *PI*.
+== Ongoing Research Grants
+-  Guangdong Basic and Applied Basic Research Foundation,"Multidimensional Signal Processing and Big Data Analytics: A Probabilsitic Tensor Approach,"  *PI*.
 
-- "Key Technilogies in Network Security Based on Multidimensional Data Fusion, Open Research Fund from Shenzhen Fundamental Research Insititute," *co-PI* (with Beihang Univeristy).
+-   Open Research Fund from Shenzhen Fundamental Research Insititute,  "Key Technilogies in Network Security Based on Multidimensional Data Fusion," *co-PI* (with Beihang Univeristy).
 
-- "5G NR FDD Channel Reconstruction and Robust Beamforming," Huawei Research Fund, *Core member*, PI: [https://scholar.google.com/citations?user=dW3gcXoAAAAJ&hl=en Prof. Zhi-Quan (Tom) Luo].
+-  Huawei Research Fund,  "5G NR FDD Channel Reconstruction and Robust Beamforming,"*Core member*, PI: [https://scholar.google.com/citations?user=dW3gcXoAAAAJ&hl=en Prof. Zhi-Quan (Tom) Luo].
 
 
 == Publications
@@ -49,19 +51,18 @@ My research interests include
 
 - *Lei Cheng* and Yik-Chung Wu, “Accelerating  Probabilistic Tensor Canonical Polyadic Decomposition With Nonnegative Factors: An Inexact BCD Approach,” submitted for possible publication.
 
-
-#- Yun Liu, Xiaoming Zhang, Feiran Huang, *Lei Cheng*, and Zhoujun Li, ”Adversarial Learning with Multi-modal Attention for Visual Question Answering,” submitted for possible publication.
+- Yun Liu, Xiaoming Zhang, Feiran Huang, *Lei Cheng*, and Zhoujun Li, ”Adversarial Learning with Multi-modal Attention for Visual Question Answering,” submitted for possible publication.
 
 #- Yun Liu, Xiaoming Zhang, Bo Zhang, *Lei Cheng*, and Zhoujun Li, "ALSA: Adversarial Learning of Supervised Attentions for Visual Question Answering," submitted for possible publication.
 
 #- Bo Zhang, Xiaoming Zhang, *Lei Cheng*, and Zhoujun Li, "Deep Kernel Network Embedding," submitted for possible publication.
 
 
-=== Accepted/Published Papers 
+=== Accepted/Published Papers
 
 - Dan Liu, Shuai Wang, Zhigang Wen, *Lei Cheng*, Miaowen Wen and Yik-Chung Wu, “Edge Learning with Unmanned Ground Vehicle: Joint Path, Energy and Sample Size Planning,” to appear in /IEEE Internet of Things Journal (IOTJ)/, 2020.
     
-- Qianyun  Zhang,  Li Gong,  *Lei Cheng*, Yue Gao, Xiaoqian Ren, "An Unmanned Aerial Vehicle Flight Formation for Enhanced Emergency Communication based on Conformal Antenna Design," to appear in /Journal of Communications and Information Networks (JCIN)/, 2020.
+- Qianyun  Zhang,  Li Gong,  *Lei Cheng*, Yue Gao, and Xiaoqian Ren, "An Unmanned Aerial Vehicle Flight Formation for Enhanced Emergency Communication based on Conformal Antenna Design," to appear in /Journal of Communications and Information Networks (JCIN)/, 2020.
      
 - *Lei Cheng*, Liang Liu, and Shuguang Cui, “A Covariance-based User Activity Detection and Channel Estimation Approach with Novel Pilot Design,” in /IEEE SPAWC 2020/.
 
@@ -79,12 +80,21 @@ My research interests include
 
 - *Lei Cheng*,  Yik-Chung Wu, and H. Vincent Poor, “Probabilistic Tensor Canonical Polyadic Decomposition with Orthogonal Factors,” /IEEE Trans. on Signal Processing(IEEE TSP)/, vol. 65, no. 3, pp. 663-676, Feb 2017. 
 
+- *Lei Cheng*, Shaodan Ma, Yik-Chung Wu, Jianzhong (Charlie) Zhang, and Lingjia Liu, “Channel Estimation in Full-dimensional Massive MIMO System Using One Training Symbol,” in /IEEE SPAWC 2017/. 
+
 - Bin Luo, *Lei Cheng* and Yik-Chung Wu, “Fully-distributed Clock Synchronization in Wireless Sensor Networks Under Exponential Delay,” /Signal Processing/, vol. 215, pp. 261-273, Aug. 2016. 
+
 
 - *Lei Cheng*, Yik-Chung Wu, Jianzhong (Charlie) Zhang, and Lingjia Liu, “Subspace Identification for DOA Estimation in Massive Full-dimension MIMO Systems: Bad Data Mitigation and Automatic Source Enumeration,” /IEEE Trans. on Signal Processing (IEEE TSP)/, vol. 63, no. 22, pp. 5897-5909, Nov, 2015.
 
+-  *Lei Cheng*, Yik-Chung Wu, Lingjia Liu, and Jianzhong (Charlie) Zhang, “Tensor-based Robust DOA Estimation in Massive MIMO System,” in /IEEE Globecom 2015/.
+
 - *Lei Cheng*, Yik-Chung Wu, “Infrastructureless Synchronization for Device-to-Device Discovery,” /IEEE COMSOC Multimedia Communications Technical Committee E-Letter/, vol. 9, no. 1, pp. 43-45, Jan. 2014. 
 
+- Bin Luo, *Lei Cheng* and Yik-Chung Wu, “Fully-distributed Joint Clock Synchronization and Ranging in Wireless Sensor Networks under Exponential Delays,” in /IEEE ICCS 2014/. 
+
 - Zibin Yu, *Lei Cheng*, Hangfang Zhao and Xianyi Gong, “Optimal Invariant Detection of a Monochromatic Plane Wave with Unknown Amplitude, Frequency, Phase, DOA and Noise Variance,” /IET Radar, Sonar \& Navigation/, vol. 8, no. 5, pp. 465-478, Jun. 2014.
+
+-  Zibin Yu, *Lei Cheng*, Hangfang Zhao and Xianyi Gong, “Optimal Invariant Detection of a Monochromatic Plane with Five Unknown Parameters,” in /IEEE ChinaSIP 2013/.
 
 
