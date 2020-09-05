@@ -1,14 +1,10 @@
-# jemdoc: menu{MENU}{publications.html}, nofooter  
+# jemdoc: menu{MENU}{publications.html}  
 
-== Publicaitons 
+== Publications
 
+=== Submitted Papers/Preprints
 
-
-=== Submitted Papers
-
-
-#- *Lei Cheng*, Zhongtao Chen, Qingjiang Shi, Yik-Chung Wu and Sergios Theodoridis, “Towards Probabilistic Tensor Canonical Polyadic Decomposition 2.0: Automatic Tensor Rank Learning Using Generalized Hyperbolic Prior,” submitted for possible publication.
-
+- *Lei Cheng*, Zhongtao Chen, Qingjiang Shi, Yik-Chung Wu and Sergios Theodoridis, “Towards Probabilistic Tensor Canonical Polyadic Decomposition 2.0: Automatic Tensor Rank Learning Using Generalized Hyperbolic Prior,” submitted for possible publication.
 
 - Yihong Dong, Xiaohan Jiang, *Lei Cheng* and Qingjiang Shi, "SSRCNN: A Semi-Supervised Learning Framework For Signal Recoginiton," submitted for possible publication.
 
@@ -16,41 +12,45 @@
 
 - *Lei Cheng* and Yik-Chung Wu, “Accelerating  Probabilistic Tensor Canonical Polyadic Decomposition With Nonnegative Factors: An Inexact BCD Approach,” submitted for possible publication.
 
-
-#- Yun Liu, Xiaoming Zhang, Feiran Huang, *Lei Cheng*, and Zhoujun Li, ”Adversarial Learning with Multi-modal Attention for Visual Question Answering,” submitted for possible publication.
-
-#- Yun Liu, Xiaoming Zhang, Bo Zhang, *Lei Cheng*, and Zhoujun Li, "ALSA: Adversarial Learning of Supervised Attentions for Visual Question Answering," submitted for possible publication.
-
-#- Bo Zhang, Xiaoming Zhang, *Lei Cheng*, and Zhoujun Li, "Deep Kernel Network Embedding," submitted for possible publication.
+- Yun Liu, Xiaoming Zhang, Feiran Huang, *Lei Cheng*, and Zhoujun Li, ”Adversarial Learning with Multi-modal Attention for Visual Question Answering,” submitted for possible publication.
 
 
-=== Accepted/Published Papers 
+=== Accepted/Published Papers
 
-- Dan Liu, Shuai Wang, Zhigang Wen, *Lei Cheng*, Miaowen Wen and Yik-Chung Wu, “ Edge Learning with Unmanned Ground Vehicle: Joint Path, Energy and Sample Size Planning,” to appear in /IEEE Internet of Things Journal (IOTJ)/, 2020.
+- Dan Liu, Shuai Wang, Zhigang Wen, *Lei Cheng*, Miaowen Wen and Yik-Chung Wu, “Edge Learning with Unmanned Ground Vehicle: Joint Path, Energy and Sample Size Planning,” to appear in *IEEE Internet of Things Journal (IOTJ)*, 2020.
     
-- Qianyun  Zhang,  Li Gong,  *Lei Cheng*, Yue Gao, Xiaoqian Ren, "An Unmanned Aerial Vehicle Flight Formation for Enhanced Emergency Communication based on Conformal Antenna Design," to appear in /Journal of Communications and Information Networks (JCIN)/, 2020.
+- Qianyun  Zhang,  Li Gong,  *Lei Cheng*, Yue Gao, and Xiaoqian Ren, "An Unmanned Aerial Vehicle Flight Formation for Enhanced Emergency Communication based on Conformal Antenna Design," to appear in *Journal of Communications and Information Networks (JCIN)*, 2020.
      
-- *Lei Cheng*, Liang Liu, and Shuguang Cui, “A Covariance-based User Activity Detection and Channel Estimation Approach with Novel Pilot Design,” in /IEEE SPAWC 2020/.
+- *Lei Cheng*, Liang Liu, and Shuguang Cui, “A Covariance-based User Activity Detection and Channel Estimation Approach with Novel Pilot Design,” in *IEEE SPAWC 2020*.
 
-- Zhongtao Chen and *Lei Cheng*, “Mitigating Outliers for Bayesian Mixture of Factor Analyzers,” in /IEEE SAM 2020/. (The first author is CUHK-SZ undergraduate student) 
+- Zhongtao Chen and *Lei Cheng*, “Mitigating Outliers for Bayesian Mixture of Factor Analyzers,” in *IEEE SAM 2020*. (The first author is CUHK-SZ undergraduate student) 
 
 
-- *Lei Cheng*, Xueke Tong, and Yik-Chung Wu,“Distributed Nonnegative Tensor Canonical Polyadic Decomposition with Automatic Rank Determination,” in /IEEE SAM 2020/.
+- *Lei Cheng*, Xueke Tong, and Yik-Chung Wu,“Distributed Nonnegative Tensor Canonical Polyadic Decomposition with Automatic Rank Determination,” in *IEEE SAM 2020*.
          
 
-- *Lei Cheng*, Xueke Tong, Shuai Wang, Yik-Chung Wu, and H. Vincent Poor, “Learning Nonnegative Factors from Tensor Data: Probabilistic Modeling and Inference Algorithm,” /IEEE Trans. on Signal Processing(IEEE TSP)/, vol. 68, pp. 1792-1806, Feb 2020.
+- *Lei Cheng*, Xueke Tong, Shuai Wang, Yik-Chung Wu, and H. Vincent Poor, “Learning Nonnegative Factors from Tensor Data: Probabilistic Modeling and Inference Algorithm,” *IEEE Trans. on Signal Processing(IEEE TSP)*, vol. 68, pp. 1792-1806, Feb 2020.
 
-- *Lei Cheng*, Chengwen Xing, and Yik-Chung Wu, “Irregular Array Manifold Aided Channel Estimation in Massive MIMO Communications,” /IEEE Journal of Selected Topics in Signal Processing (IEEE JSTSP)/, vol. 13, no. 5, pp. 974-988, Sep 2019. 
+- *Lei Cheng*, Chengwen Xing, and Yik-Chung Wu, “Irregular Array Manifold Aided Channel Estimation in Massive MIMO Communications,” *IEEE Journal of Selected Topics in Signal Processing (IEEE JSTSP)*, vol. 13, no. 5, pp. 974-988, Sep 2019. 
 
-- *Lei Cheng*, Yik-Chung Wu, and H. Vincent Poor, “Scaling Probabilistic Tensor Canonical Polyadic Decomposition to Massive Data,” /IEEE Trans. on Signal Processing(IEEE TSP)/, vol. 66, no. 21, pp. 5534-5548, Nov 2018.
+- *Lei Cheng*, Yik-Chung Wu, and H. Vincent Poor, “Scaling Probabilistic Tensor Canonical Polyadic Decomposition to Massive Data,” *IEEE Trans. on Signal Processing(IEEE TSP)*, vol. 66, no. 21, pp. 5534-5548, Nov 2018.
 
-- *Lei Cheng*,  Yik-Chung Wu, and H. Vincent Poor, “Probabilistic Tensor Canonical Polyadic Decomposition with Orthogonal Factors,” /IEEE Trans. on Signal Processing(IEEE TSP)/, vol. 65, no. 3, pp. 663-676, Feb 2017. 
+- *Lei Cheng*,  Yik-Chung Wu, and H. Vincent Poor, “Probabilistic Tensor Canonical Polyadic Decomposition with Orthogonal Factors,” *IEEE Trans. on Signal Processing(IEEE TSP)*, vol. 65, no. 3, pp. 663-676, Feb 2017. 
 
-- Bin Luo, *Lei Cheng* and Yik-Chung Wu, “Fully-distributed Clock Synchronization in Wireless Sensor Networks Under Exponential Delay,” /Signal Processing/, vol. 215, pp. 261-273, Aug. 2016. 
+- *Lei Cheng*, Shaodan Ma, Yik-Chung Wu, Jianzhong (Charlie) Zhang, and Lingjia Liu, “Channel Estimation in Full-dimensional Massive MIMO System Using One Training Symbol,” in *IEEE SPAWC 2017*. 
 
-- *Lei Cheng*, Yik-Chung Wu, Jianzhong (Charlie) Zhang, and Lingjia Liu, “Subspace Identification for DOA Estimation in Massive Full-dimension MIMO Systems: Bad Data Mitigation and Automatic Source Enumeration,” /IEEE Trans. on Signal Processing (IEEE TSP)/, vol. 63, no. 22, pp. 5897-5909, Nov, 2015.
+- Bin Luo, *Lei Cheng* and Yik-Chung Wu, “Fully-distributed Clock Synchronization in Wireless Sensor Networks Under Exponential Delay,” *Signal Processing*, vol. 215, pp. 261-273, Aug. 2016. 
 
-- *Lei Cheng*, Yik-Chung Wu, “Infrastructureless Synchronization for Device-to-Device Discovery,” /IEEE COMSOC Multimedia Communications Technical Committee E-Letter/, vol. 9, no. 1, pp. 43-45, Jan. 2014. 
 
-- Zibin Yu, *Lei Cheng*, Hangfang Zhao and Xianyi Gong, “Optimal Invariant Detection of a Monochromatic Plane Wave with Unknown Amplitude, Frequency, Phase, DOA and Noise Variance,” /IET Radar, Sonar \& Navigation/, vol. 8, no. 5, pp. 465-478, Jun. 2014.
+- *Lei Cheng*, Yik-Chung Wu, Jianzhong (Charlie) Zhang, and Lingjia Liu, “Subspace Identification for DOA Estimation in Massive Full-dimension MIMO Systems: Bad Data Mitigation and Automatic Source Enumeration,” *IEEE Trans. on Signal Processing (IEEE TSP)*, vol. 63, no. 22, pp. 5897-5909, Nov, 2015.
+
+-  *Lei Cheng*, Yik-Chung Wu, Lingjia Liu, and Jianzhong (Charlie) Zhang, “Tensor-based Robust DOA Estimation in Massive MIMO System,” in *IEEE Globecom 2015*.
+
+- *Lei Cheng*, Yik-Chung Wu, “Infrastructureless Synchronization for Device-to-Device Discovery,” *IEEE COMSOC Multimedia Communications Technical Committee E-Letter*, vol. 9, no. 1, pp. 43-45, Jan. 2014. 
+
+- Bin Luo, *Lei Cheng* and Yik-Chung Wu, “Fully-distributed Joint Clock Synchronization and Ranging in Wireless Sensor Networks under Exponential Delays,” in *IEEE ICCS 2014*. 
+
+- Zibin Yu, *Lei Cheng*, Hangfang Zhao and Xianyi Gong, “Optimal Invariant Detection of a Monochromatic Plane Wave with Unknown Amplitude, Frequency, Phase, DOA and Noise Variance,” *IET Radar, Sonar \& Navigation*, vol. 8, no. 5, pp. 465-478, Jun. 2014.
+
+-  Zibin Yu, *Lei Cheng*, Hangfang Zhao and Xianyi Gong, “Optimal Invariant Detection of a Monochromatic Plane with Five Unknown Parameters,” in *IEEE ChinaSIP 2013*.
 
