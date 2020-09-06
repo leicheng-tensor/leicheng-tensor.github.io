@@ -3,7 +3,7 @@
 == Publications
 
 === Submitted Papers/Preprints
-
+~~~
 - *Lei Cheng*, Zhongtao Chen, Qingjiang Shi, Yik-Chung Wu and Sergios Theodoridis, “Towards Probabilistic Tensor Canonical Polyadic Decomposition 2.0: Automatic Tensor Rank Learning Using Generalized Hyperbolic Prior,” submitted for possible publication.
 
 - Yihong Dong, Xiaohan Jiang, *Lei Cheng* and Qingjiang Shi, "SSRCNN: A Semi-Supervised Learning Framework For Signal Recoginiton," submitted for possible publication.
@@ -13,10 +13,11 @@
 - *Lei Cheng* and Yik-Chung Wu, “Accelerating  Probabilistic Tensor Canonical Polyadic Decomposition With Nonnegative Factors: An Inexact BCD Approach,” submitted for possible publication.
 
 - Yun Liu, Xiaoming Zhang, Feiran Huang, *Lei Cheng*, and Zhoujun Li, ”Adversarial Learning with Multi-modal Attention for Visual Question Answering,” submitted for possible publication.
-
+~~~
 
 === Accepted/Published Papers
 
+~~~
 - Dan Liu, Shuai Wang, Zhigang Wen, *Lei Cheng*, Miaowen Wen and Yik-Chung Wu, “Edge Learning with Unmanned Ground Vehicle: Joint Path, Energy and Sample Size Planning,” to appear in *IEEE Internet of Things Journal (IOTJ)*, 2020.
     
 - Qianyun  Zhang,  Li Gong,  *Lei Cheng*, Yue Gao, and Xiaoqian Ren, "An Unmanned Aerial Vehicle Flight Formation for Enhanced Emergency Communication based on Conformal Antenna Design," to appear in *Journal of Communications and Information Networks (JCIN)*, 2020.
@@ -51,6 +52,6 @@
 - Bin Luo, *Lei Cheng* and Yik-Chung Wu, “Fully-distributed Joint Clock Synchronization and Ranging in Wireless Sensor Networks under Exponential Delays,” in *IEEE ICCS 2014*. 
 
 - Zibin Yu, *Lei Cheng*, Hangfang Zhao and Xianyi Gong, “Optimal Invariant Detection of a Monochromatic Plane Wave with Unknown Amplitude, Frequency, Phase, DOA and Noise Variance,” *IET Radar, Sonar \& Navigation*, vol. 8, no. 5, pp. 465-478, Jun. 2014.
-
+~~~
 -  Zibin Yu, *Lei Cheng*, Hangfang Zhao and Xianyi Gong, “Optimal Invariant Detection of a Monochromatic Plane with Five Unknown Parameters,” in *IEEE ChinaSIP 2013*.
 

@@ -1,0 +1,8 @@
+# jemdoc: menu{MENU}{softwares.html}  
+
+== Softwares
+~~~
+-  Probabilistic Tensor CPD with Orthogonal Factors, available at [https://github.com/leicheng-tensor/pcpd-orthogonal-   Github].
+-- Referred paper: *Lei Cheng*,  Yik-Chung Wu, and H. Vincent Poor, “Probabilistic Tensor Canonical Polyadic Decomposition with Orthogonal Factors,” *IEEE Trans. on Signal Processing(IEEE TSP)*, vol. 65, no. 3, pp. 663-676, Feb 2017. 
+~~~
+
