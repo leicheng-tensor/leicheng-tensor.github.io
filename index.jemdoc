@@ -16,7 +16,7 @@
 -- By noticing that the performance of tensor rank learning is related to the flexibility of the prior distribution, we introduced the generalized hyperbolic prior to the probabilistic modeling of the CPD problem, based on which an inference algorithm is further developed. Extensive numerical results showed that the proposed method exhibits remarkable performance in *learning both low and high tensor ranks, even when the noise power is large*.   \n
 -- This is my first time working with [http://cgi.di.uoa.gr/~stheodor/ Prof. Sergios Theodoridis]. Because of his books [https://www.amazon.com/Pattern-Recognition-Sergios-Theodoridis/dp/1597492728 Pattern Recognition] and [https://www.amazon.com/Machine-Learning-Optimization-Perspective-Developers/dp/0128015225 Machine learning: A Bayesian and Optimization Perspective], I started to learn the knowledge of Bayesian learning (when I was a student). Thanks very much for his continuous education and guidance. 
 
-- Sep. 2020 | Invited by Program Chair of HPCC 2020, I will serve on the technical program committee (TPC) for IEEE HPCC 2020.
+- Sep. 2020 | Invited by Program Chair of IEEE HPCC 2020, I will serve on the technical program committee (TPC) for IEEE HPCC 2020.
 
 
 - Jul., 2020 | Invited by IEEE ICC 2021 WC Symposium Co-Chairs, I will serve on the technical program committee (TPC) for IEEE ICC 2021.
