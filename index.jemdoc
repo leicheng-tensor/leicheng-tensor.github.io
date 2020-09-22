@@ -13,6 +13,10 @@
 ~~~
 #Oct, 2020 | I will visit [http://lsec.cc.ac.cn/~yafliu/ Prof. Ya-Feng Liu] in Academy of Mathematics and Systems Science, Chinese Academy of Sciences from Oct. 9 to Oct. 25, 2020. 
 
+- Sep. 2020 | A  co-authored journal  paper "Adversarial Learning With Multi-Modal Attention for Visual Question Answering" has been accepted by IEEE TNNLS (available online at [https://ieeexplore.ieee.org/document/9174895 IEEE Xplore] ).
+
+- Sep. 2020 | Cheers ! My research on Bayesian tensor method was funded by [http://www.nsfc.gov.cn/ National Natural Science Foundation of China (NSFC)].  
+
 - Sep., 2020 | A new journal paper *``Towards Probabilistic Tensor Canonical Polyadic Decomposition 2.0: Automatic Tensor Rank Learning Using Generalized Hyperbolic Prior"* has been submitted for possible publication (available online at [https://arxiv.org/abs/2009.02472 arXiv]). 
 -- By noticing that the performance of tensor rank learning is related to the flexibility of the prior distribution, we introduced the generalized hyperbolic prior to the probabilistic modeling of the CPD problem, based on which an inference algorithm is further developed. Extensive numerical results showed that the proposed method exhibits remarkable performance in *learning both low and high tensor ranks, even when the noise power is large*.   \n
 -- This is my first time working with [http://cgi.di.uoa.gr/~stheodor/ Prof. Sergios Theodoridis]. Because of his books [https://www.amazon.com/Pattern-Recognition-Sergios-Theodoridis/dp/1597492728 Pattern Recognition] and [https://www.amazon.com/Machine-Learning-Optimization-Perspective-Developers/dp/0128015225 Machine learning: A Bayesian and Optimization Perspective], I started to learn the knowledge of Bayesian learning (when I was a student). Thanks very much for his continuous education and guidance. 
