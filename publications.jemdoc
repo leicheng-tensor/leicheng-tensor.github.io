@@ -4,13 +4,16 @@
 
 === Submitted Papers/Preprints
 ~~~
-- *Lei Cheng*, Zhongtao Chen, Qingjiang Shi, Yik-Chung Wu and Sergios Theodoridis, “Towards Probabilistic Tensor Canonical Polyadic Decomposition 2.0: Automatic Tensor Rank Learning Using Generalized Hyperbolic Prior,” submitted for possible publication (available online at [https://arxiv.org/abs/2009.02472 arXiv]).
+-  Le Xu, *Lei Cheng*, Ngai Wong, and Yik-Chung Wu, “Learning Tensor Train Representation With Automatic Rank Determination From Incomplete Noisy Data”, submitted for possible publication (available online at [https://arxiv.org/abs/2010.06564 arXiv]).
 
-- Yihong Dong, Xiaohan Jiang, *Lei Cheng* and Qingjiang Shi, "SSRCNN: A Semi-Supervised Learning Framework For Signal Recogniton," submitted for possible publication.
+- *Lei Cheng*, Zhongtao Chen, Qingjiang Shi, Yik-Chung Wu and Sergios Theodoridis, “Towards Probabilistic Tensor Canonical Polyadic Decomposition 2.0: Automatic Tensor Rank Learning Using Generalized Hyperbolic Prior,” submitted for possible publication (available online at [https://arxiv.org/abs/2009.02472 arXiv]).
 
 - *Lei Cheng* and Qingjiang Shi, “Towards Overfitting Avoidance: Tuning-free Tensor-aided Multi-user Channel Estimation for 3D Massive MIMO Communications,” submitted for possible publication.
 
 - *Lei Cheng* and Yik-Chung Wu, “Accelerating  Probabilistic Tensor Canonical Polyadic Decomposition With Nonnegative Factors: An Inexact BCD Approach,” submitted for possible publication.
+
+- Yihong Dong, Xiaohan Jiang, *Lei Cheng* and Qingjiang Shi, "SSRCNN: A Semi-Supervised Learning Framework For Signal Recogniton," submitted for possible publication.
+
 ~~~
 
 === Accepted/Published Papers
