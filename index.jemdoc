@@ -11,7 +11,7 @@
 == NEWs
 
 ~~~
-- Oct. 2020 | A new co-authored journal paper "Learning Tensor Train Representation With Automatic Rank Determination From Incomplete Noisy Data" has been submitted for possible publication (available online at [https://arxiv.org/abs/2010.06564 arXiv]). Congratulations to Le for his first journal paper submission. Good Luck !
+- Oct. 2020 | A new co-authored  paper "Learning Tensor Train Representation With Automatic Rank Determination From Incomplete Noisy Data" has been submitted for possible publication (available online at [https://arxiv.org/abs/2010.06564 arXiv]). Congratulations to Le for his first  paper submission. Good Luck !
 
 - Oct. 2020 | I will visit [http://lsec.cc.ac.cn/~yafliu/ Prof. Ya-Feng Liu] in *Academy of Mathematics and Systems Science, Chinese Academy of Sciences* from Oct. 9 to Oct. 25, 2020. Thanks very much for Ya-Feng's host. 
 
@@ -23,12 +23,6 @@
 -- By noticing that the performance of tensor rank learning is related to the flexibility of the prior distribution, we introduced the generalized hyperbolic prior to the probabilistic modeling of the CPD problem, based on which an inference algorithm is further developed. Extensive numerical results showed that the proposed method exhibits remarkable performance in *learning both low and high tensor ranks, even when the noise power is large*.   \n
 -- This is my first time working with [http://cgi.di.uoa.gr/~stheodor/ Prof. Sergios Theodoridis]. Because of his books [https://www.amazon.com/Pattern-Recognition-Sergios-Theodoridis/dp/1597492728 Pattern Recognition] and [https://www.amazon.com/Machine-Learning-Optimization-Perspective-Developers/dp/0128015225 Machine learning: A Bayesian and Optimization Perspective], I started to learn the knowledge of Bayesian learning (when I was a student). Thanks very much for his continuous education and guidance. 
 
-- Sep. 2020 | Invited by Program Chair of IEEE HPCC 2020, I will serve on the technical program committee (TPC) for IEEE HPCC 2020.
-
-
-- Jul. 2020 | Invited by IEEE ICC 2021 WC Symposium Co-Chairs, I will serve on the technical program committee (TPC) for IEEE ICC 2021.
-
-- Jun. 2020 | I helped to organize a special session "Structured Matrix/Tensor Decompositions: Models, Applications and Fast Algorithms" in IEEE SAM 2020.
 ~~~
 
 == About Me
