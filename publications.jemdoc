@@ -24,8 +24,10 @@
 
 === Accepted/Published Papers 
 
-==== Journal Papers (11), including 4 IEEE TSP, 1 IEEE JSTSP, 1 IEEE TNNLS and 1 SP. 
+==== Journal Papers (12), including 4 IEEE TSP, 1 IEEE JSTSP, 1 IEEE TNNLS, 1 IEEE TCYB and 1 SP. 
 ~~~
+- \[J12\] Yun Liu, Xiaoming Zhang, Bo Zhang, *Lei Cheng*,  and Zhoujun Li,  “ALSA: Adversarial Learning of Supervised Attentions for Visual Question Answering,” *IEEE Trans. on Cybernetics (IEEE TCYB)*, Nov. 2020.
+
 - \[J11\] Dan Liu, Shuai Wang, Zhigang Wen, *Lei Cheng*, Miaowen Wen and Yik-Chung Wu, “Edge Learning with Unmanned Ground Vehicle: Joint Path, Energy and Sample Size Planning,” *IEEE Internet of Things Journal (IEEE IOTJ)*,  Sep. 2020.
     
 - \[J10\] Qianyun  Zhang,  Li Gong,  *Lei Cheng*, Yue Gao, and Xiaoqian Ren, "An Unmanned Aerial Vehicle Flight Formation for Enhanced Emergency Communication based on Conformal Antenna Design," *Journal of Communications and Information Networks (JCIN)*,  vol. 5,  no. 3, pp. 294-301, Sep. 2020.
@@ -51,8 +53,10 @@
 - \[J1\]  Zibin Yu, *Lei Cheng*, Hangfang Zhao and Xianyi Gong, “Optimal Invariant Detection of a Monochromatic Plane Wave with Unknown Amplitude, Frequency, Phase, DOA and Noise Variance,” *IET Radar, Sonar \& Navigation*, vol. 8, no. 5, pp. 465-478, Jun. 2014.
 ~~~
 
-==== Conference Papers (7)
+==== Conference Papers (8)
 ~~~
+-  \[C8\] Xuefeng Xu, Yanqing Yao, and *Lei Cheng*, ``Deep Learning Algorithms Design and Implementation Based on Differential Privacy,'' in Proceedings of the Third International Conference on Machine Learning for Cyber Security (*ML4CS 2020*) .
+
 -  \[C7\]  *Lei Cheng*, Liang Liu, and Shuguang Cui, “A Covariance-based User Activity Detection and Channel Estimation Approach with Novel Pilot Design,” in *IEEE SPAWC 2020*.
 
 -   \[C6\] Zhongtao Chen and *Lei Cheng*, “Mitigating Outliers for Bayesian Mixture of Factor Analyzers,” in *IEEE SAM 2020*. (The first author is CUHK-SZ undergraduate student) 
