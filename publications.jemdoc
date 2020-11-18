@@ -4,8 +4,6 @@
 
 === Submitted Papers/Preprints
 ~~~
-- Chunhui Zhang, Yongyuan Liang, Xiaoming Yuan and *Lei Cheng*,  “FDNAS: Improving Data Privacy and Model Diversity in AutoML”,  submitted for possible publication (available online at [https://arxiv.org/abs/2011.03372 arXiv]).
-
 -  Kai Li, Ying Li, *Lei Cheng*, Qingjiang Shi and Zhi-Quan Luo, “Pushing The Limit of Type I Codebook For FDD Massive MIMO Beamforming: A Channel Covariance Reconstruction Approach”,  submitted for possible publication  (available online at [https://arxiv.org/pdf/2010.11840 arXiv]). 
 
 -  Le Xu, *Lei Cheng*, Ngai Wong, and Yik-Chung Wu, “Learning Tensor Train Representation With Automatic Rank Determination From Incomplete Noisy Data”, submitted for possible publication (available online at [https://arxiv.org/abs/2010.06564 arXiv]).
@@ -25,6 +23,12 @@
 === Accepted/Published Papers 
 
 ==== Journal Papers (12), including 4 IEEE TSP, 1 IEEE JSTSP, 1 IEEE TNNLS, 1 IEEE TCYB and 1 SP. 
+~~~
+- *Topic 1 Bayesian Learning for Tensor Data Analytics*: \[J5 TSP-17\], \[J6 TSP-18\], \[J8 TSP-20\] 
+- *Topic 2 Tensor-aided Array Signal Processing and Wireless Communications*:  \[J4 TSP-15\],  \[J7 JSTSP-19\]
+- *Topic 3 Machine Learning in Cyber Science*: \[J9 TNNLS-20 \],  \[J11 IOTJ-20 \],  \[J12 TCYB-20 \]
+~~~
+
 ~~~
 - \[J12\] Yun Liu, Xiaoming Zhang, Bo Zhang, *Lei Cheng*,  and Zhoujun Li,  “ALSA: Adversarial Learning of Supervised Attentions for Visual Question Answering,” *IEEE Trans. on Cybernetics (IEEE TCYB)*, Nov. 2020.
 
@@ -53,7 +57,7 @@
 - \[J1\]  Zibin Yu, *Lei Cheng*, Hangfang Zhao and Xianyi Gong, “Optimal Invariant Detection of a Monochromatic Plane Wave with Unknown Amplitude, Frequency, Phase, DOA and Noise Variance,” *IET Radar, Sonar \& Navigation*, vol. 8, no. 5, pp. 465-478, Jun. 2014.
 ~~~
 
-==== Conference Papers (8)
+==== Selected Conference Papers (8)
 ~~~
 -  \[C8\] Xuefeng Xu, Yanqing Yao, and *Lei Cheng*, ``Deep Learning Algorithms Design and Implementation Based on Differential Privacy,'' in Proceedings of the Third International Conference on Machine Learning for Cyber Security (*ML4CS 2020*) .
 
