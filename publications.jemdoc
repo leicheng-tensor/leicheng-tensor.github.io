@@ -16,8 +16,12 @@
 
 - Yihong Dong, Xiaohan Jiang, *Lei Cheng* and Qingjiang Shi, "SSRCNN: A Semi-Supervised Learning Framework For Signal Recogniton," submitted for possible publication.
 
+~~~
 
+=== Book Chapter Contributions
 
+~~~
+- \[B1\]  Xuefeng Xu, Yanqing Yao, and *Lei Cheng*, ``Deep Learning Algorithms Design and Implementation Based on Differential Privacy,'' in /Machine Learning for Cyber Security/ ( Chen X., Yan H., Yan Q., Zhang X. (eds) ) ML4CS 2020, Lecture Notes in Computer Science, *Springer*,  2020.
 ~~~
 
 === Accepted/Published Papers 
@@ -57,9 +61,8 @@
 - \[J1\]  Zibin Yu, *Lei Cheng*, Hangfang Zhao and Xianyi Gong, “Optimal Invariant Detection of a Monochromatic Plane Wave with Unknown Amplitude, Frequency, Phase, DOA and Noise Variance,” *IET Radar, Sonar \& Navigation*, vol. 8, no. 5, pp. 465-478, Jun. 2014.
 ~~~
 
-==== Selected Conference Papers (8)
+==== Selected Conference Papers (7)
 ~~~
--  \[C8\] Xuefeng Xu, Yanqing Yao, and *Lei Cheng*, ``Deep Learning Algorithms Design and Implementation Based on Differential Privacy,'' in Proceedings of the Third International Conference on Machine Learning for Cyber Security (*ML4CS 2020*) .
 
 -  \[C7\]  *Lei Cheng*, Liang Liu, and Shuguang Cui, “A Covariance-based User Activity Detection and Channel Estimation Approach with Novel Pilot Design,” in *IEEE SPAWC 2020*.
 
