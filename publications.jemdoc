@@ -10,8 +10,6 @@
 
 - *Lei Cheng*, Zhongtao Chen, Qingjiang Shi, Yik-Chung Wu and Sergios Theodoridis, “Towards Probabilistic Tensor Canonical Polyadic Decomposition 2.0: Automatic Tensor Rank Learning Using Generalized Hyperbolic Prior,” submitted for possible publication (available online at [https://arxiv.org/abs/2009.02472 arXiv]). 
 
-- *Lei Cheng* and Qingjiang Shi, “Towards Overfitting Avoidance: Tuning-free Tensor-aided Multi-user Channel Estimation for 3D Massive MIMO Communications,” submitted for possible publication.
-
 - *Lei Cheng* and Yik-Chung Wu, “Accelerating  Probabilistic Tensor Canonical Polyadic Decomposition With Nonnegative Factors: An Inexact BCD Approach,” submitted for possible publication.
 
 - Yihong Dong, Xiaohan Jiang, *Lei Cheng* and Qingjiang Shi, "SSRCNN: A Semi-Supervised Learning Framework For Signal Recogniton," submitted for possible publication.
@@ -26,14 +24,17 @@
 
 === Accepted/Published Papers 
 
-==== Journal Papers (12), including 4 IEEE TSP, 1 IEEE JSTSP, 1 IEEE TNNLS, 1 IEEE TCYB and 1 SP. 
+==== Journal Papers (13), including 4 IEEE TSP, 2 IEEE JSTSP, 1 IEEE TNNLS, 1 IEEE TCYB, 1 SP and 1 IEEE IOTJ. 
 ~~~
 - *Topic 1 Bayesian Learning for Tensor Data Analytics*: \[J5 TSP-17\], \[J6 TSP-18\], \[J8 TSP-20\] 
-- *Topic 2 Tensor-aided Array Signal Processing and Wireless Communications*:  \[J4 TSP-15\],  \[J7 JSTSP-19\]
-- *Topic 3 Machine Learning for Cyber Science*: \[J9 TNNLS-20 \],  \[J11 IOTJ-20 \],  \[J12 TCYB-20 \]
+- *Topic 2 Tensor-aided Array Signal Processing and Wireless Communications*:  \[J4 TSP-15\],  \[J7 JSTSP-19\],  \[J12 JSTSP-21\]
+- *Topic 3 Machine Learning for Cyber Science*: \[J9 TNNLS-20\],  \[J11 IOTJ-20\],  \[J12 TCYB-20\]
 ~~~
 
 ~~~
+
+- \[J13\]  *Lei Cheng* and Qingjiang Shi, “Towards Overfitting Avoidance: Tuning-free Tensor-aided Multi-user Channel Estimation for 3D Massive MIMO Communications,” to appear in *IEEE Journal of Selected Topics in Signal Processing (IEEE JSTSP) - Special Issue on Tensor Decomposition for Signal Processing and Machine Learning*, Jan. 2021.
+
 - \[J12\] Yun Liu, Xiaoming Zhang, Bo Zhang, *Lei Cheng*,  and Zhoujun Li,  “ALSA: Adversarial Learning of Supervised Attentions for Visual Question Answering,” *IEEE Trans. on Cybernetics (IEEE TCYB)*, Nov. 2020.
 
 - \[J11\] Dan Liu, Shuai Wang, Zhigang Wen, *Lei Cheng*, Miaowen Wen and Yik-Chung Wu, “Edge Learning with Unmanned Ground Vehicle: Joint Path, Energy and Sample Size Planning,” *IEEE Internet of Things Journal (IEEE IOTJ)*,  Sep. 2020.
@@ -44,7 +45,7 @@
          
 - \[J8\] *Lei Cheng*, Xueke Tong, Shuai Wang, Yik-Chung Wu, and H. Vincent Poor, “Learning Nonnegative Factors from Tensor Data: Probabilistic Modeling and Inference Algorithm,” *IEEE Trans. on Signal Processing (IEEE TSP)*, vol. 68, pp. 1792-1806, Feb. 2020.
 
-- \[J7\] *Lei Cheng*, Chengwen Xing, and Yik-Chung Wu, “Irregular Array Manifold Aided Channel Estimation in Massive MIMO Communications,” *IEEE Journal of Selected Topics in Signal Processing (IEEE JSTSP)*, vol. 13, no. 5, pp. 974-988, Sep. 2019. 
+- \[J7\] *Lei Cheng*, Chengwen Xing, and Yik-Chung Wu, “Irregular Array Manifold Aided Channel Estimation in Massive MIMO Communications,” *IEEE Journal of Selected Topics in Signal Processing (IEEE JSTSP)- Special Issue on Array Signal Processing for Angular Models in Massive MIMO Communications*, vol. 13, no. 5, pp. 974-988, Sep. 2019. 
 
 - \[J6\] *Lei Cheng*, Yik-Chung Wu, and H. Vincent Poor, “Scaling Probabilistic Tensor Canonical Polyadic Decomposition to Massive Data,” *IEEE Trans. on Signal Processing (IEEE TSP)*, vol. 66, no. 21, pp. 5534-5548, Nov. 2018.
 
