@@ -2,6 +2,11 @@
 
 == Publications
 
+
+
+=== I sincerely THANK all the co-authors over the years ! 
+
+
 === Submitted Papers/Preprints
 ~~~
 
@@ -28,7 +33,7 @@
 ~~~
 - *Topic 1 Bayesian Learning for Tensor Data Analytics*: \[J5 TSP-17\], \[J6 TSP-18\], \[J8 TSP-20\] 
 - *Topic 2 Tensor-aided Array Signal Processing and Wireless Communications*:  \[J4 TSP-15\],  \[J7 JSTSP-19\],  \[J12 JSTSP-21\]
-- *Topic 3 Machine Learning for Cyber Science*: \[J9 TNNLS-20\],  \[J11 IOTJ-20\],  \[J12 TCYB-20\]
+- *Topic 3 Machine Learning for Information System*: \[J9 TNNLS-20\],  \[J11 IOTJ-20\],  \[J12 TCYB-20\]
 ~~~
 
 ~~~
@@ -62,7 +67,18 @@
 - \[J1\]  Zibin Yu, *Lei Cheng*, Hangfang Zhao and Xianyi Gong, “Optimal Invariant Detection of a Monochromatic Plane Wave with Unknown Amplitude, Frequency, Phase, DOA and Noise Variance,” *IET Radar, Sonar \& Navigation*, vol. 8, no. 5, pp. 465-478, Jun. 2014.
 ~~~
 
-==== Selected Conference Papers (9)
+
+
+
+
+==== Selected Conference Papers (10)
+~~~
+- *Machine Learning Conferences*: \[C9 DASFAA 2021, CCF-B \] 
+- *Signal Processing Conferences*:  \[C10 ICASSP 2021, CCF-B\], \[C7 SPWAC 2020\], \[C5, C6 SAM 2020\], \[C4 SPAWC 2017\], \[C1 ChinaSIP 2013\]
+- *Communication Conferences*:  \[C8 WCNC 2021\], \[C3 GLOBECOM 2015\], \[C2 ICCCS 2014\]
+~~~
+
+
 ~~~
 - \[C10\] Kai Li, Ying Li, *Lei Cheng*, Qingjiang Shi and Zhi-Quan Luo, “Pushing The Limit of Type I Codebook For FDD Massive MIMO Beamforming: A Channel Covariance Reconstruction Approach”,   in *IEEE ICASSP 2021* (available online at [https://arxiv.org/pdf/2010.11840 arXiv]). 
 
@@ -78,7 +94,7 @@
 
 -  \[C4\] *Lei Cheng*, Shaodan Ma, Yik-Chung Wu, Jianzhong (Charlie) Zhang, and Lingjia Liu, “Channel Estimation in Full-dimensional Massive MIMO System Using One Training Symbol,” in *IEEE SPAWC 2017*. 
 
--   \[C3\] *Lei Cheng*, Yik-Chung Wu, Lingjia Liu, and Jianzhong (Charlie) Zhang, “Tensor-based Robust DOA Estimation in Massive MIMO System,” in *IEEE Globecom 2015*.
+-   \[C3\] *Lei Cheng*, Yik-Chung Wu, Lingjia Liu, and Jianzhong (Charlie) Zhang, “Tensor-based Robust DOA Estimation in Massive MIMO System,” in *IEEE GlOBECOM 2015*.
 
 -   \[C2\] Bin Luo, *Lei Cheng* and Yik-Chung Wu, “Fully-distributed Joint Clock Synchronization and Ranging in Wireless Sensor Networks under Exponential Delays,” in *IEEE ICCS 2014*. 
 
