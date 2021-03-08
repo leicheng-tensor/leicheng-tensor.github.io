@@ -9,16 +9,9 @@
 
 === Submitted Papers/Preprints
 ~~~
-
-
 -  Le Xu, *Lei Cheng*, Ngai Wong, and Yik-Chung Wu, “Learning Tensor Train Representation With Automatic Rank Determination From Incomplete Noisy Data”, submitted for possible publication (available online at [https://arxiv.org/abs/2010.06564 arXiv]).
 
 - *Lei Cheng*, Zhongtao Chen, Qingjiang Shi, Yik-Chung Wu and Sergios Theodoridis, “Towards Probabilistic Tensor Canonical Polyadic Decomposition 2.0: Automatic Tensor Rank Learning Using Generalized Hyperbolic Prior,” submitted for possible publication (available online at [https://arxiv.org/abs/2009.02472 arXiv]). 
-
-- *Lei Cheng* and Yik-Chung Wu, “Accelerating  Probabilistic Tensor Canonical Polyadic Decomposition With Nonnegative Factors: An Inexact BCD Approach,” submitted for possible publication.
-
-- Yihong Dong, Xiaohan Jiang, *Lei Cheng* and Qingjiang Shi, "SSRCNN: A Semi-Supervised Learning Framework For Signal Recogniton," submitted for possible publication.
-
 ~~~
 
 === Book Chapter Contributions
@@ -33,12 +26,10 @@
 ~~~
 - *Topic 1 Bayesian Learning for Tensor Data Analytics*: \[J5 TSP-17\], \[J6 TSP-18\], \[J8 TSP-20\] 
 - *Topic 2 Tensor-aided Array Signal Processing and Wireless Communications*:  \[J4 TSP-15\],  \[J7 JSTSP-19\],  \[J12 JSTSP-21\]
-- *Topic 3 Machine Learning for Information System*: \[J9 TNNLS-20\],  \[J11 IOTJ-20\],  \[J12 TCYB-20\]
+- *Topic 3 Machine Learning for Information System*: \[J9 TNNLS-20\],  \[J11 IOTJ-20\],  \[J12 TCYB-20\], \[J15 TCCN-21\]
 ~~~
 
 ~~~
-- \[J14\] Qianyun Zhang, Xinwei Li,  *Lei Cheng* , Yuanwei Liu, and Yue Gao, ``Power Profile-based Antenna Selection for Millimeter Wave MIMO with an All-Planar Lens Antenna Array'', to appear in *IEEE Access*, Mar. 2021. 
-
 - \[J13\]  *Lei Cheng* and Qingjiang Shi, “Towards Overfitting Avoidance: Tuning-free Tensor-aided Multi-user Channel Estimation for 3D Massive MIMO Communications,” to appear in *IEEE Journal of Selected Topics in Signal Processing (IEEE JSTSP) - Special Issue on Tensor Decomposition for Signal Processing and Machine Learning*, Jan. 2021.
 
 - \[J12\] Yun Liu, Xiaoming Zhang, Bo Zhang, *Lei Cheng*,  and Zhoujun Li,  “ALSA: Adversarial Learning of Supervised Attentions for Visual Question Answering,” *IEEE Trans. on Cybernetics (IEEE TCYB)*, Nov. 2020.
