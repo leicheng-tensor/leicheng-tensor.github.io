@@ -9,6 +9,12 @@
 
 === Submitted Papers/Preprints
 ~~~
+
+
+-  Ying Li, Kai Li, *Lei Cheng*, Qingjiang Shi and Zhi-Quan Luo, ``Digital Twin-Aided Learning to Enable Robust Beamforming: Limited Feedback Meets Deep Generative Models'', submitted for possible publication. 
+
+-  Kai Li, Ying Li, *Lei Cheng*, Qingjiang Shi and Zhi-Quan Luo, ``Learning Enhanced Beamforming Vector From CQIs in 5G NR FDD Massive MIMO Systems: A Tuning-free Approach'', submitted for possible publication. 
+
 -  Le Xu, *Lei Cheng*, Ngai Wong, and Yik-Chung Wu, “Learning Tensor Train Representation With Automatic Rank Determination From Incomplete Noisy Data”, submitted for possible publication (available online at [https://arxiv.org/abs/2010.06564 arXiv]).
 
 - *Lei Cheng*, Zhongtao Chen, Qingjiang Shi, Yik-Chung Wu and Sergios Theodoridis, “Towards Probabilistic Tensor Canonical Polyadic Decomposition 2.0: Automatic Tensor Rank Learning Using Generalized Hyperbolic Prior,” submitted for possible publication (available online at [https://arxiv.org/abs/2009.02472 arXiv]). 
@@ -20,7 +26,18 @@
 - \[B1\]  Xuefeng Xu, Yanqing Yao, and *Lei Cheng*, ``Deep Learning Algorithms Design and Implementation Based on Differential Privacy,'' in /Machine Learning for Cyber Security/ ( Chen X., Yan H., Yan Q., Zhang X. (eds) ) ML4CS 2020, *Lecture Notes in Computer Science Book Series, Springer*,  2020.
 ~~~
 
-=== Accepted/Published Papers 
+
+=== Accepted/Published Papers
+
+
+==== Machine Learning Conference Papers (2)
+
+~~~
+- \[C2\]  Bo Zhang, Xiaoming Zhang, Yun Liu, *Lei Cheng* and Zhoujun Li, ``Matching Distributions between Model and Data: Cross-domain Knowledge Distillation for Unsupervised Domain Adaptation'', in *ACL-IJCNLP 2021 (CCF-A in Natural Language Processing) *.
+
+- \[C1\]  Bo Zhang, Xiaoming Zhang, Yun Liu, and *Lei Cheng*, "Discriminative Feature Adaptation via Conditional Mean Discrepancy for Cross-domain Text Classification," in Database Systems for Advanced Applications  (*DASFAA 2021, CCF-B in Data Mining*).
+~~~
+
 
 ==== Journal Papers (16), including 4 IEEE TSP, 2 IEEE JSTSP, 1 IEEE TNNLS, 1 IEEE TCYB, 1 SP and 1 IEEE IOTJ. 
 ~~~
@@ -66,21 +83,14 @@
 ~~~
 
 
-
-
-
-==== Selected Conference Papers (10)
+==== Selected Signal Processing and Wireless Communication Conference Papers (9)
 ~~~
-- *Machine Learning Conferences*: \[C9 DASFAA 2021, CCF-B \] 
-- *Signal Processing Conferences*:  \[C10 ICASSP 2021, CCF-B\], \[C7 SPWAC 2020\], \[C5, C6 SAM 2020\], \[C4 SPAWC 2017\], \[C1 ChinaSIP 2013\]
+- *Signal Processing Conferences*:  \[C9 ICASSP 2021, CCF-B\], \[C7 SPWAC 2020\], \[C5, C6 SAM 2020\], \[C4 SPAWC 2017\], \[C1 ChinaSIP 2013\]
 - *Communication Conferences*:  \[C8 WCNC 2021\], \[C3 GLOBECOM 2015\], \[C2 ICCCS 2014\]
 ~~~
 
-
 ~~~
-- \[C10\] Kai Li, Ying Li, *Lei Cheng*, Qingjiang Shi and Zhi-Quan Luo, “Pushing The Limit of Type I Codebook For FDD Massive MIMO Beamforming: A Channel Covariance Reconstruction Approach”,   in *IEEE ICASSP 2021* (available online at [https://arxiv.org/pdf/2010.11840 arXiv]). 
-
-- \[C9\]  Bo Zhang, Xiaoming Zhang, Yun Liu, and *Lei Cheng*, "Discriminative Feature Adaptation via Conditional Mean Discrepancy for Cross-domain Text Classification," in Database Systems for Advanced Applications  (*DASFAA 2021, CCF-B in Data Mining*).
+- \[C9\] Kai Li, Ying Li, *Lei Cheng*, Qingjiang Shi and Zhi-Quan Luo, “Pushing The Limit of Type I Codebook For FDD Massive MIMO Beamforming: A Channel Covariance Reconstruction Approach”,   in *IEEE ICASSP 2021* (available online at [https://arxiv.org/pdf/2010.11840 arXiv]). 
 
 -  \[C8\]  Yihong Dong, Xiaohan Jiang, *Lei Cheng* and Qingjiang Shi, "Semi-Supervised Learning For Signal Recognition With Sparsity And Robust Promotion," in *IEEE WCNC 2021*.
 
